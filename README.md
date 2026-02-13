@@ -1,5 +1,3 @@
-[**IVAN REKUN**](http://www.linkedin.com/in/ivan-rekun-ai-4it6353)
-
 ML Engineer (NLP & LLM), **4+ years** experience
 
 GMT+1
@@ -18,7 +16,7 @@ AI/ML Engineer with 4+ years of experience building and productionizing intellig
 
 Experienced in designing multi-agent systems, retrieval optimization, fine-tuning domain-specific LLMs, and deploying scalable AI services on AWS and Azure. Focused on building reliable, secure, and cost-efficient AI systems that drive measurable business impact — reducing operational costs, accelerating troubleshooting, and improving knowledge accessibility for thousands of users.
 
-**SKILLS**
+# **SKILLS**
 
 **Languages**: Python, SQL, TypeScript
 
@@ -32,9 +30,9 @@ Experienced in designing multi-agent systems, retrieval optimization, fine-tunin
 
 **Backend**: REST API (FastAPI, Flask), gRPC, PostgreSQL, Redis
 
-**EXPERIENCE**
+# **EXPERIENCE**
 
-[N-iX](https://www.n-ix.com/): 08/2024 – PRESENT 1.5+ YEARS 
+## [N-iX](https://www.n-ix.com/): 08/2024 – PRESENT 1.5+ YEARS 
 
 - Developed chatbot with RAG and agentic features for a bank in Arab Emirates, using AWS Bedrock.
 - Implemented multi-agent orchestration and secure tool calling via MCP. Exposed via REST APIs (FastAPI). Achieved **98.3%** intent classification accuracy.
@@ -45,7 +43,7 @@ Experienced in designing multi-agent systems, retrieval optimization, fine-tunin
 
   ***Technologies:** AWS Bedrock, OpenSearch, Lambda, LangChain, LangGraph, Pinecone, FastAPI*
 
-  [INTELLIAS](https://intellias.com/): 03/2023 – 07/2024 1.4 YEARS
+## [INTELLIAS](https://intellias.com/): 03/2023 – 07/2024 1.4 YEARS
 
 - Developed LLM-based knowledge platform for global automotive client, unifying distributed data sources and enabling natural-language queries for 10,000+ employees. 
 - Worked on context engineering: built RAG pipelines with retrieval optimization, embeddings and prompt orchestration, achieving **92%** retrieval accuracy and **2%** hallucination rate. 
@@ -56,7 +54,7 @@ Experienced in designing multi-agent systems, retrieval optimization, fine-tunin
 
   ***Technologies**: Azure (AI Search, Kubernetes Service), Hugging Face, PyTorch, LlamaIndex, MLflow, Docker, Airflow*
 
-  [NAPOLEON IT](https://napoleonit.ru/): 06/2021 – 01/2023 1.6 YEARS
+## [NAPOLEON IT](https://napoleonit.ru/): 06/2021 – 01/2023 1.6 YEARS
 
 - Contributed to speech analytics platform processing call center conversations (audio -> transcription with Whisper -> NLP -> business scoring).
 - Fine-tuned NLP models (BERT-based) for script compliance detection, dialogue stage classification, intent detection, and topic modeling.
@@ -68,7 +66,7 @@ Experienced in designing multi-agent systems, retrieval optimization, fine-tunin
 
   ***Technologies**: PyTorch, Hugging Face, spaCy, ruBERT, Whisper, XGBoost, Docker, MLflow, scikit-learn*
 
-  **EDUCATION**
+ # **EDUCATION**
 
   **BELARUSIAN STATE UNIVERSITY – BACHELOR**, 2016-2020
 
